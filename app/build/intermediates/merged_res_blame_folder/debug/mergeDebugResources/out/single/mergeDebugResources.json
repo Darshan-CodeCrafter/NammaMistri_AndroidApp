@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.nammamistri.app-debug-38:/layout_fragment_rates.xml.flat",
+        "source": "com.nammamistri.app-main-40:/layout/fragment_rates.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-38:/drawable_bg_card.xml.flat",
+        "source": "com.nammamistri.app-main-40:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-38:/drawable_bg_input.xml.flat",
+        "source": "com.nammamistri.app-main-40:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-38:/layout_item_worker.xml.flat",
+        "source": "com.nammamistri.app-main-40:/layout/item_worker.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-38:/layout_fragment_labor.xml.flat",
+        "source": "com.nammamistri.app-main-40:/layout/fragment_labor.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-38:/layout_fragment_photos.xml.flat",
+        "source": "com.nammamistri.app-main-40:/layout/fragment_photos.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-38:/layout_fragment_calculator.xml.flat",
+        "source": "com.nammamistri.app-main-40:/layout/fragment_calculator.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-38:/layout_item_photo.xml.flat",
+        "source": "com.nammamistri.app-main-40:/layout/item_photo.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-38:/drawable_bg_btn_primary.xml.flat",
+        "source": "com.nammamistri.app-main-40:/drawable/bg_btn_primary.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-38:/layout_activity_main.xml.flat",
+        "source": "com.nammamistri.app-main-40:/layout/activity_main.xml"
+    }
+]

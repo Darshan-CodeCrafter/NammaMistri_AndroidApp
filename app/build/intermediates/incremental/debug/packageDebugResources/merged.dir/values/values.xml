@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent">#F0C24A</color>
+    <color name="bg">#0F1115</color>
+    <color name="destructive">#D14545</color>
+    <color name="divider">#2C313B</color>
+    <color name="muted">#9AA0AA</color>
+    <color name="primary">#E2762B</color>
+    <color name="primary_dark">#B85F1F</color>
+    <color name="surface">#1A1D24</color>
+    <color name="surface_2">#22262F</color>
+    <color name="text">#F4F1EC</color>
+    <string name="absent">A</string>
+    <string name="add_photo">ಫೋಟೋ ಸೇರಿಸಿ</string>
+    <string name="add_worker">ಕೆಲಸಗಾರ ಸೇರಿಸಿ</string>
+    <string name="advance">ಮುಂಗಡ</string>
+    <string name="app_name">Namma Mistri</string>
+    <string name="balance_due">ಬಾಕಿ</string>
+    <string name="bricks">ಇಟ್ಟಿಗೆ</string>
+    <string name="calculate">ಲೆಕ್ಕ ಮಾಡಿ</string>
+    <string name="caption">ಶೀರ್ಷಿಕೆ</string>
+    <string name="cement">ಸಿಮೆಂಟ್ ಚೀಲ</string>
+    <string name="daily_wage">ದಿನದ ಕೂಲಿ (₹)</string>
+    <string name="delete">ಅಳಿಸಿ</string>
+    <string name="half">H</string>
+    <string name="height_m">ಎತ್ತರ (m)</string>
+    <string name="length_m">ಉದ್ದ (m)</string>
+    <string name="present">P</string>
+    <string name="rate_brick">ಇಟ್ಟಿಗೆ ದರ (₹/ಪೀಸ್)</string>
+    <string name="rate_cement">ಸಿಮೆಂಟ್ ದರ (₹/ಚೀಲ)</string>
+    <string name="rate_sand">ಮರಳು ದರ (₹/CFT)</string>
+    <string name="sand_cft">ಮರಳು (CFT)</string>
+    <string name="save">ಉಳಿಸಿ</string>
+    <string name="tab_calc">ಲೆಕ್ಕ</string>
+    <string name="tab_photos">ಫೋಟೋ</string>
+    <string name="tab_rates">ದರ</string>
+    <string name="tab_team">ತಂಡ</string>
+    <string name="thickness">ಗೋಡೆ ದಪ್ಪ</string>
+    <string name="total_cost">ಒಟ್ಟು ವೆಚ್ಚ</string>
+    <string name="worker_name">ಹೆಸರು</string>
+    <style name="Theme.NammaMistri" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/text</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:colorBackground">@color/bg</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+    </style>
+</resources>
