@@ -32,10 +32,10 @@ app/
          └─ values/  (colors, strings — Kannada, themes)
 ```
 ## snapshots
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/82d4ac8b-02d1-4156-9fb7-03c8e37e9073" />
-<img width="720" height="1600" alt="Screenshot_20260515_202953" src="https://github.com/user-attachments/assets/132a8c6e-3f5e-46ab-8473-56fa100d7d41" />
-<img width="720" height="1600" alt="Screenshot_20260515_203212" src="https://github.com/user-attachments/assets/7c372bae-c4c6-423b-b344-5180094dbab6" />
-<img width="720" height="1600" alt="Screenshot_20260515_203225" src="https://github.com/user-attachments/assets/1806a781-df8b-4ddc-a765-8c52901b514b" />
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/82d4ac8b-02d1-4156-9fb7-03c8e37e9073" />
+<img width="360" height="800" alt="Screenshot_20260515_202953" src="https://github.com/user-attachments/assets/132a8c6e-3f5e-46ab-8473-56fa100d7d41" />
+<img width="360" height="800" alt="Screenshot_20260515_203212" src="https://github.com/user-attachments/assets/7c372bae-c4c6-423b-b344-5180094dbab6" />
+<img width="360" height="800" alt="Screenshot_20260515_203225" src="https://github.com/user-attachments/assets/1806a781-df8b-4ddc-a765-8c52901b514b" />
 
 
 
